@@ -1,3 +1,5 @@
+## Kasir Restoran
+
 Aplikasi Kasir Restoran (POS) Sederhana
 Sebuah aplikasi Point-of-Sale (POS) berbasis web yang dirancang untuk mengelola pesanan dan pembayaran di restoran. Aplikasi ini dibangun menggunakan teknologi native tanpa framework.
 
