@@ -14,7 +14,7 @@ Dashboard Admin: Menampilkan pesanan masuk secara real-time dan memungkinkan pem
 Sistem Kasir: Memproses pembayaran untuk pesanan yang sudah siap (ready), mencatat metode pembayaran, dan menyediakan fitur cetak struk.
 Manajemen Keranjang Interaktif: Pengguna dapat menambah, mengurangi, atau menghapus item langsung dari halaman keranjang.
 
-Login System
+## Login System
 
 Aplikasi ini menggunakan sistem login dengan multi-role dalam satu halaman login. Berdasarkan role yang terdeteksi saat login, pengguna akan diarahkan ke halaman yang sesuai:
 
