@@ -13,7 +13,7 @@ Halaman Pelanggan: Menampilkan menu, menambah item ke keranjang, dan membuat pes
 
 Dashboard Admin: Menampilkan pesanan masuk secara real-time dan memungkinkan pembaruan status pesanan (Pending → Preparing → Ready).
 
-Sistem Kasir: Memproses pembayaran untuk pesanan yang sudah siap (ready), mencatat metode pembayaran, dan menyediakan fitur cetak struk.
+Sistem Kasir: Memproses pembayaran untuk pesanan yang sudah selesai (completed), mencatat metode pembayaran, dan menyediakan fitur cetak struk.
 
 Manajemen Keranjang Interaktif: Pengguna dapat menambah, mengurangi, atau menghapus item langsung dari halaman keranjang.
 
