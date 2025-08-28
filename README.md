@@ -26,7 +26,7 @@ Kasir → diarahkan ke kasir.php untuk memproses pembayaran dan mencetak struk.
 
 ## Admin
 
-Admin dapat masuk melalui halaman admin.php dan memiliki hak akses penuh untuk mengelola aplikasi. Melalui halaman ini, admin bisa menambah, mengedit, dan menghapus data menu, memantau pesanan yang masuk secara real-time, memperbarui status pesanan, serta melihat laporan transaksi restoran.
+Admin dapat masuk melalui halaman admin.php dan memiliki hak akses penuh untuk mengelola aplikasi. Melalui halaman ini, admin bisa menambah, mengedit, dan menghapus data menu, memantau pesanan yang masuk secara real-time, memperbarui status pesanan, serta melihat laporan transaksi restoran. Admin juga bisa merubah users seperti mengedit atau mengubah data dari users tersebut.
 
 ## Status Makanan
 
