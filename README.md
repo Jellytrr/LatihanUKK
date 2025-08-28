@@ -27,3 +27,17 @@ Kasir → diarahkan ke kasir.php untuk memproses pembayaran dan mencetak struk.
 ## Admin
 
 Admin dapat masuk melalui halaman admin.php dan memiliki hak akses penuh untuk mengelola aplikasi. Melalui halaman ini, admin bisa menambah, mengedit, dan menghapus data menu, memantau pesanan yang masuk secara real-time, memperbarui status pesanan, serta melihat laporan transaksi restoran.
+
+## Status Makanan
+
+Status makanan digunakan untuk memantau progres setiap pesanan mulai dari dibuat hingga selesai atau dibatalkan. Berikut daftar status yang tersedia:
+
+Pending → Pesanan baru dibuat dan menunggu diproses.
+
+Preparing → Pesanan sedang dimasak/ dipersiapkan oleh dapur.
+
+Ready → Pesanan sudah selesai dimasak dan siap diantar.
+
+Completed → Pesanan sudah diantar ke pelanggan dan pembayaran selesai.
+
+Cancelled → Pesanan dibatalkan oleh pelanggan atau admin.
